@@ -1,0 +1,21 @@
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[user]
+	name = duffpop
+	email = crowdome@gmail.com
+[http]
+	postBuffer = 1048576000
+	maxRequestBuffer = 100M
+[core]
+	compression = 4
+	excludesfile = /Users/haydenduffy/.gitignore
+	editor = code -r -w
+[pull]
+	rebase = false
+[diff]
+    guitool = vscode
+[difftool "vscode"]
+    cmd = code --wait --diff $LOCAL $REMOTE

@@ -1,0 +1,1327 @@
+
+- command: cd .fig/
+  exit_code: 0
+  shell: bash
+  session_id: w1t0p0:7F4114C9-D958-49AF-8B33-72967D46D804
+  cwd: /Users/haydenduffy
+  time: 1659112187
+- command: git commit -m 'hello'
+  exit_code: 0
+  shell: bash
+  session_id: w1t0p0:7F4114C9-D958-49AF-8B33-72967D46D804
+  cwd: /Users/haydenduffy/.fig
+  time: 1659112199
+- command: git commit -m 'hello'
+  exit_code: 0
+  shell: bash
+  session_id: w1t0p0:7F4114C9-D958-49AF-8B33-72967D46D804
+  cwd: /Users/haydenduffy/.fig
+  time: 1659112199
+- command: shopify theme serve --live-reload full-page --theme-editor-sync
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p2:8135FB0F-9852-466E-B281-1A97042D6C7F
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659112425
+- command: vcs
+  exit_code: 0
+  shell: zsh
+  session_id: E0BEC1E9-4070-474E-9902-001B847805DF
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659132414
+- command: reload
+  exit_code: 0
+  shell: zsh
+  session_id: E0BEC1E9-4070-474E-9902-001B847805DF
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659132485
+- command: yarn add @sentry/browser @sentry/tracing
+  exit_code: 0
+  shell: zsh
+  session_id: E0BEC1E9-4070-474E-9902-001B847805DF
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659134774
+- command: shopify theme serve --live-reload full-page --theme-editor-sync
+  exit_code: 0
+  shell: zsh
+  session_id: E0BEC1E9-4070-474E-9902-001B847805DF
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659137154
+- command: ❯ shopify theme serve --live-reload full-page --theme-editor-sync
+  exit_code: 0
+  shell: zsh
+  session_id: E0BEC1E9-4070-474E-9902-001B847805DF
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659137157
+- command: shopify theme serve --live-reload full-page --theme-editor-sync
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p2:8135FB0F-9852-466E-B281-1A97042D6C7F
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659133278
+- command: shopify theme serve --live-reload full-page --theme-editor-sync
+  exit_code: 1
+  shell: zsh
+  session_id: w0t0p2:8135FB0F-9852-466E-B281-1A97042D6C7F
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659137179
+- command: yarn dev
+  exit_code: 130
+  shell: zsh
+  session_id: E0BEC1E9-4070-474E-9902-001B847805DF
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659137388
+- command: [1] Stopping...                                                                                                                                                                                                                                        [1] Stopping...                                                                                                                                                                                                                                          [1] shopify theme serve --live-reload full-page --theme-editor-sync exited with code 0                                                                                                                                                                   ^C
+  exit_code: 0
+  shell: zsh
+  session_id: E0BEC1E9-4070-474E-9902-001B847805DF
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659137411
+- command: yarn
+  exit_code: 0
+  shell: zsh
+  session_id: E0BEC1E9-4070-474E-9902-001B847805DF
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659137981
+- command: yarn add -D postcss-import
+  exit_code: 0
+  shell: zsh
+  session_id: E0BEC1E9-4070-474E-9902-001B847805DF
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659138062
+- command: yarn
+  exit_code: 0
+  shell: zsh
+  session_id: E0BEC1E9-4070-474E-9902-001B847805DF
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659138157
+- command: yarn remove @fontsource/comfortaa @fontsouce/space-mono
+  exit_code: 1
+  shell: zsh
+  session_id: E0BEC1E9-4070-474E-9902-001B847805DF
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659138367
+- command: yarn remove @fontsource/comfortaa
+  exit_code: 0
+  shell: zsh
+  session_id: E0BEC1E9-4070-474E-9902-001B847805DF
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659138380
+- command: yarn remove @fontsource/space-mono
+  exit_code: 0
+  shell: zsh
+  session_id: E0BEC1E9-4070-474E-9902-001B847805DF
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659138385
+- command: yarn add -D @fontsource/comfortaa @fontsouce/space-mono
+  exit_code: 1
+  shell: zsh
+  session_id: E0BEC1E9-4070-474E-9902-001B847805DF
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659138392
+- command: yarn add -D @fontsource/comfortaa @fontsource/space-mono
+  exit_code: 0
+  shell: zsh
+  session_id: E0BEC1E9-4070-474E-9902-001B847805DF
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659138402
+- command: yarn
+  exit_code: 0
+  shell: zsh
+  session_id: E0BEC1E9-4070-474E-9902-001B847805DF
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659138412
+- command: npx mix watch
+  exit_code: 2
+  shell: zsh
+  session_id: E0BEC1E9-4070-474E-9902-001B847805DF
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659138417
+- command: npx mix watch
+  exit_code: 0
+  shell: zsh
+  session_id: E0BEC1E9-4070-474E-9902-001B847805DF
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659138491
+- command: yarn add @fontsource/comfortaa @fontsource/space-mono
+  exit_code: 0
+  shell: zsh
+  session_id: E0BEC1E9-4070-474E-9902-001B847805DF
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659138652
+- command: yarn
+  exit_code: 0
+  shell: zsh
+  session_id: E0BEC1E9-4070-474E-9902-001B847805DF
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659138661
+- command: npx mix watch
+  exit_code: 0
+  shell: zsh
+  session_id: E0BEC1E9-4070-474E-9902-001B847805DF
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659138663
+- command: npx mix watch
+  exit_code: 0
+  shell: zsh
+  session_id: E0BEC1E9-4070-474E-9902-001B847805DF
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659139041
+- command: npx mix watch
+  exit_code: 0
+  shell: zsh
+  session_id: E0BEC1E9-4070-474E-9902-001B847805DF
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659139058
+- command: npx mix watch
+  exit_code: 0
+  shell: zsh
+  session_id: E0BEC1E9-4070-474E-9902-001B847805DF
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659139070
+- command: npx mix watch
+  exit_code: 2
+  shell: zsh
+  session_id: E0BEC1E9-4070-474E-9902-001B847805DF
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659139480
+- command: npx mix watch
+  exit_code: 2
+  shell: zsh
+  session_id: E0BEC1E9-4070-474E-9902-001B847805DF
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659139500
+- command: npx mix watch
+  exit_code: 0
+  shell: zsh
+  session_id: E0BEC1E9-4070-474E-9902-001B847805DF
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659139532
+- command: npx mix watch
+  exit_code: 0
+  shell: zsh
+  session_id: E0BEC1E9-4070-474E-9902-001B847805DF
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659139549
+- command: yarn remove @fontsource/comfortaa @fontsource/space-mono
+  exit_code: 0
+  shell: zsh
+  session_id: E0BEC1E9-4070-474E-9902-001B847805DF
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659139579
+- command: yarn add -D @fontsource/comfortaa @fontsource/space-mono
+  exit_code: 0
+  shell: zsh
+  session_id: E0BEC1E9-4070-474E-9902-001B847805DF
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659139600
+- command: npx mix watch
+  exit_code: 0
+  shell: zsh
+  session_id: E0BEC1E9-4070-474E-9902-001B847805DF
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659139625
+- command: npx mix watch
+  exit_code: 0
+  shell: zsh
+  session_id: E0BEC1E9-4070-474E-9902-001B847805DF
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659139649
+- command: npx mix watch
+  exit_code: 0
+  shell: zsh
+  session_id: E0BEC1E9-4070-474E-9902-001B847805DF
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659139697
+- command: npx mix watch
+  exit_code: 0
+  shell: zsh
+  session_id: E0BEC1E9-4070-474E-9902-001B847805DF
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659139717
+- command: npx mix watch
+  exit_code: 0
+  shell: zsh
+  session_id: E0BEC1E9-4070-474E-9902-001B847805DF
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659139717
+- command: npx mix watch
+  exit_code: 0
+  shell: zsh
+  session_id: E0BEC1E9-4070-474E-9902-001B847805DF
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659139858
+- command: npx mix watch
+  exit_code: 0
+  shell: zsh
+  session_id: E0BEC1E9-4070-474E-9902-001B847805DF
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659139858
+- command: npx mix watch
+  exit_code: 0
+  shell: zsh
+  session_id: E0BEC1E9-4070-474E-9902-001B847805DF
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659139858
+- command: vcs
+  exit_code: 0
+  shell: zsh
+  session_id: E0BEC1E9-4070-474E-9902-001B847805DF
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659140635
+- command: kc
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:DD7698AE-04BC-4BB7-B906-D6A2999F2DE7
+  cwd: /Users/haydenduffy
+  time: 1659141373
+- command: cd themes/taste-theme
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:DD7698AE-04BC-4BB7-B906-D6A2999F2DE7
+  cwd: /Users/haydenduffy/github/keebcats
+  time: 1659141374
+- command: shopify theme serve --live-reload full-page --theme-editor-sync
+  exit_code: 1
+  shell: zsh
+  session_id: w0t0p1:DD7698AE-04BC-4BB7-B906-D6A2999F2DE7
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659141377
+- command: shopify theme serve --live-reload full-page --theme-editor-sync
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:DD7698AE-04BC-4BB7-B906-D6A2999F2DE7
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659141406
+- command: shopify theme serve --live-reload full-page --theme-editor-sync
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:DD7698AE-04BC-4BB7-B906-D6A2999F2DE7
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659141406
+- command: shopify theme serve --live-reload full-page --theme-editor-sync
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:DD7698AE-04BC-4BB7-B906-D6A2999F2DE7
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659185578
+- command: shopify theme serve --live-reload full-page --theme-editor-sync
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:DD7698AE-04BC-4BB7-B906-D6A2999F2DE7
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659185578
+- command: shopify theme serve --live-reload full-page --theme-editor-sync
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:DD7698AE-04BC-4BB7-B906-D6A2999F2DE7
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659185578
+- command: shopify theme serve --live-reload full-page --theme-editor-sync
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:DD7698AE-04BC-4BB7-B906-D6A2999F2DE7
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659185578
+- command: shopify theme serve --live-reload full-page --theme-editor-sync
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:DD7698AE-04BC-4BB7-B906-D6A2999F2DE7
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659185578
+- command: cd
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:DD7698AE-04BC-4BB7-B906-D6A2999F2DE7
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659194120
+- command: github
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:DD7698AE-04BC-4BB7-B906-D6A2999F2DE7
+  cwd: /Users/haydenduffy
+  time: 1659194139
+- command: cd personal-stuff/
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:DD7698AE-04BC-4BB7-B906-D6A2999F2DE7
+  cwd: /Users/haydenduffy/github
+  time: 1659194142
+- command: cd
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:DD7698AE-04BC-4BB7-B906-D6A2999F2DE7
+  cwd: /Users/haydenduffy/github/personal-stuff
+  time: 1659194144
+- command: cd backups/
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:DD7698AE-04BC-4BB7-B906-D6A2999F2DE7
+  cwd: /Users/haydenduffy/github/personal-stuff
+  time: 1659194891
+- command: ls
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:DD7698AE-04BC-4BB7-B906-D6A2999F2DE7
+  cwd: /Users/haydenduffy/github/personal-stuff/backups
+  time: 1659194892
+- command: cd ssh/
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:DD7698AE-04BC-4BB7-B906-D6A2999F2DE7
+  cwd: /Users/haydenduffy/github/personal-stuff/backups
+  time: 1659194895
+- command: ls
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:DD7698AE-04BC-4BB7-B906-D6A2999F2DE7
+  cwd: /Users/haydenduffy/github/personal-stuff/backups/ssh
+  time: 1659194896
+- command: ls -a
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:DD7698AE-04BC-4BB7-B906-D6A2999F2DE7
+  cwd: /Users/haydenduffy/github/personal-stuff/backups/ssh
+  time: 1659194897
+- command: cp ~/Downloads/diddlemetimbers-1.zip .
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:DD7698AE-04BC-4BB7-B906-D6A2999F2DE7
+  cwd: /Users/haydenduffy/github/personal-stuff/backups/ssh
+  time: 1659194923
+- command: mkdir ultra-cc-seedbox
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:DD7698AE-04BC-4BB7-B906-D6A2999F2DE7
+  cwd: /Users/haydenduffy/github/personal-stuff/backups/ssh
+  time: 1659194939
+- command: mv diddlemetimbers-1.zip ultra-cc-seedbox/
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:DD7698AE-04BC-4BB7-B906-D6A2999F2DE7
+  cwd: /Users/haydenduffy/github/personal-stuff/backups/ssh
+  time: 1659194943
+- command: gs
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:DD7698AE-04BC-4BB7-B906-D6A2999F2DE7
+  cwd: /Users/haydenduffy/github/personal-stuff/backups/ssh
+  time: 1659194944
+- command: bkup
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:DD7698AE-04BC-4BB7-B906-D6A2999F2DE7
+  cwd: /Users/haydenduffy/github/personal-stuff/backups/ssh
+  time: 1659194947
+- command: kc
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p0:E29C936C-FC57-4806-B2FD-A1DE7163E8DA
+  cwd: /Users/haydenduffy
+  time: 1659361347
+- command: cd themes/taste-theme/
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p0:E29C936C-FC57-4806-B2FD-A1DE7163E8DA
+  cwd: /Users/haydenduffy/github/keebcats
+  time: 1659361357
+- command: code .
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p0:E29C936C-FC57-4806-B2FD-A1DE7163E8DA
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659361358
+- command: code .
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p0:E29C936C-FC57-4806-B2FD-A1DE7163E8DA
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659361358
+- command: code .
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p0:E29C936C-FC57-4806-B2FD-A1DE7163E8DA
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659361358
+- command: az
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:C475EF8C-4803-4208-8617-40BB26170BB9
+  cwd: /Users/haydenduffy
+  time: 1659361434
+- command: reload
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:C475EF8C-4803-4208-8617-40BB26170BB9
+  cwd: /Users/haydenduffy
+  time: 1659361476
+- command: taste
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:C475EF8C-4803-4208-8617-40BB26170BB9
+  cwd: /Users/haydenduffy
+  time: 1659361477
+- command: gs
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:C475EF8C-4803-4208-8617-40BB26170BB9
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659361483
+- command: git diff tailwind.config.js
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:C475EF8C-4803-4208-8617-40BB26170BB9
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659361491
+- command: git add .
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:C475EF8C-4803-4208-8617-40BB26170BB9
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659361558
+- command: gc \"WIP - fontsource addition\"
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:C475EF8C-4803-4208-8617-40BB26170BB9
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659361685
+- command: git push origin gb-term-completion
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:C475EF8C-4803-4208-8617-40BB26170BB9
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659361688
+- command: git push origin gb-term-completion
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:C475EF8C-4803-4208-8617-40BB26170BB9
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659361688
+- command: git push origin gb-term-completion
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:C475EF8C-4803-4208-8617-40BB26170BB9
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659361688
+- command: brew install --cask resilio-sync
+  exit_code: 0
+  shell: zsh
+  session_id: w1t0p2:2B1AA3BE-CF21-4E41-A1DE-F40EB11E2B04
+  cwd: /Users/haydenduffy
+  time: 1659368568
+- command: brew install --cask resilio-sync
+  exit_code: 0
+  shell: zsh
+  session_id: w1t0p2:2B1AA3BE-CF21-4E41-A1DE-F40EB11E2B04
+  cwd: /Users/haydenduffy
+  time: 1659368568
+- command: aliases | grep newplex
+  exit_code: 0
+  shell: zsh
+  session_id: w1t0p2:03828521-65C6-4131-9018-EA09F4A403FE
+  cwd: /Users/haydenduffy
+  time: 1659369981
+- command: ssh diddlemetimbers@46.232.210.40
+  exit_code: 0
+  shell: zsh
+  session_id: w1t0p1:250D7083-7BE0-4A62-B679-E0E660019AA1
+  cwd: /Users/haydenduffy
+  time: 1659369692
+- command: newplex
+  exit_code: 0
+  shell: zsh
+  session_id: w1t0p1:B67A6F1A-06CF-4B59-B9BA-3BEB8E260A68
+  cwd: /Users/haydenduffy
+  time: 1659369669
+- command: newplex
+  exit_code: 0
+  shell: zsh
+  session_id: w1t0p1:B67A6F1A-06CF-4B59-B9BA-3BEB8E260A68
+  cwd: /Users/haydenduffy
+  time: 1659369669
+- command: git push origin gb-term-completion
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:C475EF8C-4803-4208-8617-40BB26170BB9
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659361688
+- command: git push origin gb-term-completion
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:C475EF8C-4803-4208-8617-40BB26170BB9
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659361688
+- command: newplex
+  exit_code: 0
+  shell: zsh
+  session_id: w1t0p1:B67A6F1A-06CF-4B59-B9BA-3BEB8E260A68
+  cwd: /Users/haydenduffy
+  time: 1659369669
+- command: newplex
+  exit_code: 0
+  shell: zsh
+  session_id: w1t0p1:B67A6F1A-06CF-4B59-B9BA-3BEB8E260A68
+  cwd: /Users/haydenduffy
+  time: 1659369669
+- command: newplex
+  exit_code: 0
+  shell: zsh
+  session_id: w1t0p1:B67A6F1A-06CF-4B59-B9BA-3BEB8E260A68
+  cwd: /Users/haydenduffy
+  time: 1659369669
+- command: ssh diddlemetimbers@46.232.210.40
+  exit_code: 0
+  shell: zsh
+  session_id: w1t0p1:B67A6F1A-06CF-4B59-B9BA-3BEB8E260A68
+  cwd: /Users/haydenduffy
+  time: 1659376662
+- command: ssh diddlemetimbers@46.232.210.40
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:C475EF8C-4803-4208-8617-40BB26170BB9
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659376995
+- command: az
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:C475EF8C-4803-4208-8617-40BB26170BB9
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659376996
+- command: gdrve
+  exit_code: 1
+  shell: zsh
+  session_id: w0t0p1:C475EF8C-4803-4208-8617-40BB26170BB9
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659377051
+- command: reload
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:C475EF8C-4803-4208-8617-40BB26170BB9
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659377429
+- command: bub
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:C475EF8C-4803-4208-8617-40BB26170BB9
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659377484
+- command: rm -rf /opt/homebrew/etc/dbus-1
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:C475EF8C-4803-4208-8617-40BB26170BB9
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659377541
+- command: rm -rf /opt/homebrew/etc/dbus-1
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:C475EF8C-4803-4208-8617-40BB26170BB9
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659377541
+- command: github
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p2:D782F8D3-423B-48D0-AB5C-B1D3A0E39967
+  cwd: /Users/haydenduffy
+  time: 1659377554
+- command: cd personal-stuff/
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p2:D782F8D3-423B-48D0-AB5C-B1D3A0E39967
+  cwd: /Users/haydenduffy/github
+  time: 1659377555
+- command: code backups/brew/Brewfile
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p2:D782F8D3-423B-48D0-AB5C-B1D3A0E39967
+  cwd: /Users/haydenduffy/github/personal-stuff
+  time: 1659377564
+- command: c
+  exit_code: 127
+  shell: zsh
+  session_id: w0t0p2:D782F8D3-423B-48D0-AB5C-B1D3A0E39967
+  cwd: /Users/haydenduffy/github/personal-stuff
+  time: 1659377573
+- command: echo $PATH
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p2:D782F8D3-423B-48D0-AB5C-B1D3A0E39967
+  cwd: /Users/haydenduffy/github/personal-stuff
+  time: 1659377629
+- command: echo $PATH
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p2:D782F8D3-423B-48D0-AB5C-B1D3A0E39967
+  cwd: /Users/haydenduffy/github/personal-stuff
+  time: 1659377633
+- command: which code
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p2:D782F8D3-423B-48D0-AB5C-B1D3A0E39967
+  cwd: /Users/haydenduffy/github/personal-stuff
+  time: 1659377678
+- command: which code | pbcopy
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p2:D782F8D3-423B-48D0-AB5C-B1D3A0E39967
+  cwd: /Users/haydenduffy/github/personal-stuff
+  time: 1659377683
+- command: reload
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p2:D782F8D3-423B-48D0-AB5C-B1D3A0E39967
+  cwd: /Users/haydenduffy/github/personal-stuff
+  time: 1659377697
+- command: c .
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p2:D782F8D3-423B-48D0-AB5C-B1D3A0E39967
+  cwd: /Users/haydenduffy/github/personal-stuff
+  time: 1659377701
+- command: brew untap federico-terzi/espanso
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p2:D782F8D3-423B-48D0-AB5C-B1D3A0E39967
+  cwd: /Users/haydenduffy/github/personal-stuff
+  time: 1659377743
+- command: displayplacer list
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p2:D782F8D3-423B-48D0-AB5C-B1D3A0E39967
+  cwd: /Users/haydenduffy/github/personal-stuff
+  time: 1659377783
+- command: brew list formulae
+  exit_code: 1
+  shell: zsh
+  session_id: w0t0p2:D782F8D3-423B-48D0-AB5C-B1D3A0E39967
+  cwd: /Users/haydenduffy/github/personal-stuff
+  time: 1659377965
+- command: brew formulae
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p2:D782F8D3-423B-48D0-AB5C-B1D3A0E39967
+  cwd: /Users/haydenduffy/github/personal-stuff
+  time: 1659377971
+- command: bkup
+  exit_code: 0
+  shell: zsh
+  session_id: 8BA9DB27-7729-4FA8-9FBD-46864631BE34
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659377988
+- command: brew cask cleanup
+  exit_code: 1
+  shell: zsh
+  session_id: 8BA9DB27-7729-4FA8-9FBD-46864631BE34
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659378141
+- command: brew cleanup --cask
+  exit_code: 1
+  shell: zsh
+  session_id: 8BA9DB27-7729-4FA8-9FBD-46864631BE34
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659378148
+- command: brew --cask cleanup
+  exit_code: 1
+  shell: zsh
+  session_id: 8BA9DB27-7729-4FA8-9FBD-46864631BE34
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659378154
+- command: rm -rf /opt/homebrew/etc/dbus-1
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:C475EF8C-4803-4208-8617-40BB26170BB9
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659377541
+- command: brew --cask cleanup
+  exit_code: 1
+  shell: zsh
+  session_id: 8BA9DB27-7729-4FA8-9FBD-46864631BE34
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659378154
+- command: brew --cask cleanup
+  exit_code: 1
+  shell: zsh
+  session_id: 8BA9DB27-7729-4FA8-9FBD-46864631BE34
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659378154
+- command: dig https://hype.cannonkeys.com/
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:C475EF8C-4803-4208-8617-40BB26170BB9
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659379381
+- command: dig txt hype.cannonkeys.com
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:C475EF8C-4803-4208-8617-40BB26170BB9
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659379387
+- command: whois https://hype.cannonkeys.com/
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:C475EF8C-4803-4208-8617-40BB26170BB9
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659379396
+- command: brew --cask cleanup
+  exit_code: 1
+  shell: zsh
+  session_id: 8BA9DB27-7729-4FA8-9FBD-46864631BE34
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659378154
+- command: whois https://hype.cannonkeys.com/
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:C475EF8C-4803-4208-8617-40BB26170BB9
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659379396
+- command: whois https://hype.cannonkeys.com/
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:C475EF8C-4803-4208-8617-40BB26170BB9
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659379396
+- command: az
+  exit_code: 0
+  shell: zsh
+  session_id: 8BA9DB27-7729-4FA8-9FBD-46864631BE34
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659381869
+- command: bkup
+  exit_code: 0
+  shell: zsh
+  session_id: 8BA9DB27-7729-4FA8-9FBD-46864631BE34
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659381903
+- command: github
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p2:108C8239-A5E4-46D2-8C80-ACCE58D3F74E
+  cwd: /Users/haydenduffy
+  time: 1659381928
+- command: cd personal-stuff/
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p2:108C8239-A5E4-46D2-8C80-ACCE58D3F74E
+  cwd: /Users/haydenduffy/github
+  time: 1659381929
+- command: c auto_git.sh
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p2:108C8239-A5E4-46D2-8C80-ACCE58D3F74E
+  cwd: /Users/haydenduffy/github/personal-stuff
+  time: 1659381933
+- command: bub
+  exit_code: 0
+  shell: zsh
+  session_id: 8BA9DB27-7729-4FA8-9FBD-46864631BE34
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659381917
+- command: bub
+  exit_code: 0
+  shell: zsh
+  session_id: 8BA9DB27-7729-4FA8-9FBD-46864631BE34
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659381917
+- command: open .
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p2:108C8239-A5E4-46D2-8C80-ACCE58D3F74E
+  cwd: /Users/haydenduffy/github/personal-stuff
+  time: 1659382107
+- command: whois https://hype.cannonkeys.com/
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:C475EF8C-4803-4208-8617-40BB26170BB9
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659379396
+- command: whois https://hype.cannonkeys.com/
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:C475EF8C-4803-4208-8617-40BB26170BB9
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659379396
+- command: plex
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p2:8C415538-D8D5-4306-A64E-0FD974B0D159
+  cwd: /Users/haydenduffy
+  time: 1659382551
+- command: whois https://hype.cannonkeys.com/
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:C475EF8C-4803-4208-8617-40BB26170BB9
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659379396
+- command: whois https://hype.cannonkeys.com/
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:C475EF8C-4803-4208-8617-40BB26170BB9
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659379396
+- command: brew install --cask backblaze-downloader
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:C475EF8C-4803-4208-8617-40BB26170BB9
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659383617
+- command: brew install --cask backblaze
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:C475EF8C-4803-4208-8617-40BB26170BB9
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659383660
+- command: bkup
+  exit_code: 0
+  shell: zsh
+  session_id: 8BA9DB27-7729-4FA8-9FBD-46864631BE34
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659383871
+- command: brew install --cask backblaze
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:C475EF8C-4803-4208-8617-40BB26170BB9
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659383660
+- command: brew install --cask backblaze
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:C475EF8C-4803-4208-8617-40BB26170BB9
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659383660
+- command: plex
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p2:BED8C257-095B-4B2D-B3E6-4FDA91E0C56B
+  cwd: /Users/haydenduffy
+  time: 1659383913
+- command: brew install --cask backblaze
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:C475EF8C-4803-4208-8617-40BB26170BB9
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659383660
+- command: brew install --cask backblaze
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:C475EF8C-4803-4208-8617-40BB26170BB9
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659383660
+- command: brew install --cask backblaze
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:C475EF8C-4803-4208-8617-40BB26170BB9
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659383660
+- command: brew install --cask backblaze
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:C475EF8C-4803-4208-8617-40BB26170BB9
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659383660
+- command: brew install --cask backblaze
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:C475EF8C-4803-4208-8617-40BB26170BB9
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659383660
+- command: bkup
+  exit_code: 0
+  shell: zsh
+  session_id: 8BA9DB27-7729-4FA8-9FBD-46864631BE34
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659383871
+- command: brew install --cask backblaze
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:C475EF8C-4803-4208-8617-40BB26170BB9
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659383660
+- command: brew install --cask backblaze
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:C475EF8C-4803-4208-8617-40BB26170BB9
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659383660
+- command: brew install --cask backblaze
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:C475EF8C-4803-4208-8617-40BB26170BB9
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659383660
+- command: brew install --cask backblaze
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:C475EF8C-4803-4208-8617-40BB26170BB9
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659383660
+- command: bkup
+  exit_code: 0
+  shell: zsh
+  session_id: 8BA9DB27-7729-4FA8-9FBD-46864631BE34
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659383871
+- command: bkup
+  exit_code: 0
+  shell: zsh
+  session_id: 8BA9DB27-7729-4FA8-9FBD-46864631BE34
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659383871
+- command: bkup
+  exit_code: 0
+  shell: zsh
+  session_id: 8BA9DB27-7729-4FA8-9FBD-46864631BE34
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659383871
+- command: gs
+  exit_code: 0
+  shell: zsh
+  session_id: 8BA9DB27-7729-4FA8-9FBD-46864631BE34
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659388860
+- command: git add .
+  exit_code: 0
+  shell: zsh
+  session_id: 8BA9DB27-7729-4FA8-9FBD-46864631BE34
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659388863
+- command: gc \"styling fin\"
+  exit_code: 0
+  shell: zsh
+  session_id: 8BA9DB27-7729-4FA8-9FBD-46864631BE34
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659388869
+- command: git push origin gb-term-completion
+  exit_code: 0
+  shell: zsh
+  session_id: 8BA9DB27-7729-4FA8-9FBD-46864631BE34
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659388871
+- command: yarn dev
+  exit_code: 130
+  shell: zsh
+  session_id: w0t0p0:E29C936C-FC57-4806-B2FD-A1DE7163E8DA
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659361412
+- command: yarn dev
+  exit_code: 130
+  shell: zsh
+  session_id: w0t0p0:E29C936C-FC57-4806-B2FD-A1DE7163E8DA
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659389459
+- command: git push origin gb-term-completion
+  exit_code: 0
+  shell: zsh
+  session_id: 8BA9DB27-7729-4FA8-9FBD-46864631BE34
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659388871
+- command: gs
+  exit_code: 0
+  shell: zsh
+  session_id: 8BA9DB27-7729-4FA8-9FBD-46864631BE34
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659390468
+- command: git add .
+  exit_code: 0
+  shell: zsh
+  session_id: 8BA9DB27-7729-4FA8-9FBD-46864631BE34
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659390476
+- command: gc \"richtext terms tooltip schema updated - needed <p> as default\"
+  exit_code: 0
+  shell: zsh
+  session_id: 8BA9DB27-7729-4FA8-9FBD-46864631BE34
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659390496
+- command: git push origin gb-term-completion
+  exit_code: 0
+  shell: zsh
+  session_id: 8BA9DB27-7729-4FA8-9FBD-46864631BE34
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659390497
+- command: gs
+  exit_code: 0
+  shell: zsh
+  session_id: 8BA9DB27-7729-4FA8-9FBD-46864631BE34
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659393572
+- command: git add .
+  exit_code: 0
+  shell: zsh
+  session_id: 8BA9DB27-7729-4FA8-9FBD-46864631BE34
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659393574
+- command: gc \"WIP - tooltip needs centering over attr\"
+  exit_code: 0
+  shell: zsh
+  session_id: 8BA9DB27-7729-4FA8-9FBD-46864631BE34
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659393585
+- command: git push origin gb-term-completion
+  exit_code: 0
+  shell: zsh
+  session_id: 8BA9DB27-7729-4FA8-9FBD-46864631BE34
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659393588
+- command: git add .
+  exit_code: 0
+  shell: zsh
+  session_id: 8BA9DB27-7729-4FA8-9FBD-46864631BE34
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659394992
+- command: gc \"WIP - tooltip needs spacing and link styling\"
+  exit_code: 0
+  shell: zsh
+  session_id: 8BA9DB27-7729-4FA8-9FBD-46864631BE34
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659395004
+- command: git push origin gb-term-completion
+  exit_code: 0
+  shell: zsh
+  session_id: 8BA9DB27-7729-4FA8-9FBD-46864631BE34
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659395005
+- command: yarn dev
+  exit_code: 130
+  shell: zsh
+  session_id: w0t0p0:E29C936C-FC57-4806-B2FD-A1DE7163E8DA
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659389552
+- command: yarn dev
+  exit_code: 130
+  shell: zsh
+  session_id: w0t0p0:E29C936C-FC57-4806-B2FD-A1DE7163E8DA
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659389552
+- command: yarn dev
+  exit_code: 130
+  shell: zsh
+  session_id: w0t0p0:E29C936C-FC57-4806-B2FD-A1DE7163E8DA
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659389552
+- command: plex
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p0:2CEA2862-0D60-4ED9-A8BD-FFB03EF24011
+  cwd: /Users/haydenduffy
+  time: 1659395050
+- command: plex
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p0:CFBA1085-4E48-4EA9-8453-3055FB01A27F
+  cwd: /Users/haydenduffy
+  time: 1659395331
+- command: plex
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p0:2FC073AA-CDD9-46FB-A28F-5DB96BAC3571
+  cwd: /Users/haydenduffy
+  time: 1659395540
+- command: taste
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p0:2665C1B2-1EDE-4BE8-AA4E-E7067A69CE4F
+  cwd: /Users/haydenduffy
+  time: 1659435381
+- command: c .
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p0:2665C1B2-1EDE-4BE8-AA4E-E7067A69CE4F
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659435382
+- command: c
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p0:2665C1B2-1EDE-4BE8-AA4E-E7067A69CE4F
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659435397
+- command: c
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p0:2665C1B2-1EDE-4BE8-AA4E-E7067A69CE4F
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659435397
+- command: c
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p0:2665C1B2-1EDE-4BE8-AA4E-E7067A69CE4F
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659435397
+- command: c
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p0:2665C1B2-1EDE-4BE8-AA4E-E7067A69CE4F
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659435397
+- command: c
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p0:2665C1B2-1EDE-4BE8-AA4E-E7067A69CE4F
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659435397
+- command: taste
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:0B97D1B9-02B6-4068-ADA7-1760B817E29E
+  cwd: /Users/haydenduffy
+  time: 1659435478
+- command: yarn add alpinejs
+  exit_code: 0
+  shell: zsh
+  session_id: 4AD4EA04-B791-4F03-A291-8780D04C9107
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659435501
+- command: yarn add @babel/core
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:0B97D1B9-02B6-4068-ADA7-1760B817E29E
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659435643
+- command: yarn add install-peers -D
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:0B97D1B9-02B6-4068-ADA7-1760B817E29E
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659435648
+- command: yarn
+  exit_code: 0
+  shell: zsh
+  session_id: 4AD4EA04-B791-4F03-A291-8780D04C9107
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659435667
+- command: git add package.json
+  exit_code: 0
+  shell: zsh
+  session_id: 4AD4EA04-B791-4F03-A291-8780D04C9107
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659435674
+- command: git add .
+  exit_code: 0
+  shell: zsh
+  session_id: 4AD4EA04-B791-4F03-A291-8780D04C9107
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659435682
+- command: gc \"add alpinejs + peer deps\"
+  exit_code: 0
+  shell: zsh
+  session_id: 4AD4EA04-B791-4F03-A291-8780D04C9107
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659435690
+- command: git push origin gb-term-completion
+  exit_code: 0
+  shell: zsh
+  session_id: 4AD4EA04-B791-4F03-A291-8780D04C9107
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659435691
+- command: git push origin gb-term-completion
+  exit_code: 0
+  shell: zsh
+  session_id: 4AD4EA04-B791-4F03-A291-8780D04C9107
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659435691
+- command: git push origin gb-term-completion
+  exit_code: 0
+  shell: zsh
+  session_id: 4AD4EA04-B791-4F03-A291-8780D04C9107
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659435691
+- command: gs
+  exit_code: 0
+  shell: zsh
+  session_id: 4AD4EA04-B791-4F03-A291-8780D04C9107
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659436511
+- command: git add .
+  exit_code: 0
+  shell: zsh
+  session_id: 4AD4EA04-B791-4F03-A291-8780D04C9107
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659436512
+- command: gc \"alpine show sale buttons when checkbox checked\"
+  exit_code: 0
+  shell: zsh
+  session_id: 4AD4EA04-B791-4F03-A291-8780D04C9107
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659436523
+- command: git push origin gb-term-completion
+  exit_code: 0
+  shell: zsh
+  session_id: 4AD4EA04-B791-4F03-A291-8780D04C9107
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659436526
+- command: gs
+  exit_code: 0
+  shell: zsh
+  session_id: 4AD4EA04-B791-4F03-A291-8780D04C9107
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659436863
+- command: git add .
+  exit_code: 0
+  shell: zsh
+  session_id: 4AD4EA04-B791-4F03-A291-8780D04C9107
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659436865
+- command: gc \"tooltip link styling\"
+  exit_code: 0
+  shell: zsh
+  session_id: 4AD4EA04-B791-4F03-A291-8780D04C9107
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659436875
+- command: git push origin gb-term-completion
+  exit_code: 0
+  shell: zsh
+  session_id: 4AD4EA04-B791-4F03-A291-8780D04C9107
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659436877
+- command: git push origin gb-term-completion
+  exit_code: 0
+  shell: zsh
+  session_id: 4AD4EA04-B791-4F03-A291-8780D04C9107
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659436877
+- command: git push origin gb-term-completion
+  exit_code: 0
+  shell: zsh
+  session_id: 4AD4EA04-B791-4F03-A291-8780D04C9107
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659436877
+- command: yarn add install-peers -D
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:0B97D1B9-02B6-4068-ADA7-1760B817E29E
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659435648
+- command: yarn add install-peers -D
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:0B97D1B9-02B6-4068-ADA7-1760B817E29E
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659435648
+- command: yarn add install-peers -D
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p1:0B97D1B9-02B6-4068-ADA7-1760B817E29E
+  cwd: /Users/haydenduffy/github/keebcats/themes/taste-theme
+  time: 1659435648
+- command: chezmoi init
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p2:9B90417A-7785-42FE-B4C0-FCA3C51FE704
+  cwd: /Users/haydenduffy
+  time: 1659438107
+- command: chezmoi add .zshrc
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p2:9B90417A-7785-42FE-B4C0-FCA3C51FE704
+  cwd: /Users/haydenduffy
+  time: 1659438125
+- command: ls -a
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p2:9B90417A-7785-42FE-B4C0-FCA3C51FE704
+  cwd: /Users/haydenduffy
+  time: 1659438132
+- command: chezmoi add .gitignore .gitconfig
+  exit_code: 0
+  shell: zsh
+  session_id: w0t0p2:9B90417A-7785-42FE-B4C0-FCA3C51FE704
+  cwd: /Users/haydenduffy
+  time: 1659438157
