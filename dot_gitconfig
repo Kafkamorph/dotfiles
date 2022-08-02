@@ -5,7 +5,7 @@
 	required = true
 [user]
 	name = duffpop
-	email = crowdome@gmail.com
+	email = 45819703+duffpop@users.noreply.github.com
 [http]
 	postBuffer = 1048576000
 	maxRequestBuffer = 100M
@@ -19,3 +19,4 @@
     guitool = vscode
 [difftool "vscode"]
     cmd = code --wait --diff $LOCAL $REMOTE
+
